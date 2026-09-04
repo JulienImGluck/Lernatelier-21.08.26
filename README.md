@@ -20,5 +20,5 @@ Checkliste.etc
    1. [X] Ich möchte im Modul 319 mit der Mission 6 fertig werden.
    2. [X] Ich möchte am Modul 431 ebenfalls arbeiten
    3. [X] Ich möchte mich noch für denn Test ebenfalls vorbereiten.
-5. Reflexion:
-6. Reflexion nächste Lektion:
+5. Reflexion: Ich habe heute gut gearbeitet und konzentriert meine Aufgaben gelöst. Dafür habe ich Musik benutzt. Es hat mir geholfen mich zu konzentrieren.
+6. Reflexion nächste Lektion: Nächste Lektion möchte ich versuchen weiterhin so gut wie möglich zu arbeiten. Wenn ich neue Aufträge bekomme, welche ich im Lernatelier lösen soll, mache ich die und sonst arbeite ich weiter an den Modulen.
