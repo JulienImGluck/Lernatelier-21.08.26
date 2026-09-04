@@ -17,8 +17,8 @@ Reflexion nächste Lektion: Ich möchte gleich arbeiten, wie letzte Woche, sodas
 Noten: Immer noch gleich wie letzte Woche, nur das nächste Woche ein Test ansteht, dieser ist wichtig, weil er auch im Zeugnis zählt.
 Veränderungen: Ich möchte heute besser meine Zeit einteilen, sodass ich genug Zeit für alles habe.
 Generelle Ziele:
-[] Ich möchte im Modul 319 mit der Mission 6 fertig werden.
-[] Ich möchte am Modul 431 ebenfalls arbeiten
-[] Ich möchte mich noch für denn Test ebenfalls vorbereiten.
+[X] Ich möchte im Modul 319 mit der Mission 6 fertig werden.
+[X] Ich möchte am Modul 431 ebenfalls arbeiten
+[X] Ich möchte mich noch für denn Test ebenfalls vorbereiten.
 Reflexion:
 Reflexion nächste Lektion:
