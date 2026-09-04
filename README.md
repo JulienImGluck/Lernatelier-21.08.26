@@ -17,8 +17,8 @@ Checkliste.etc
 2. Noten: Immer noch gleich wie letzte Woche, nur das nächste Woche ein Test ansteht, dieser ist wichtig, weil er auch im Zeugnis zählt.
 3. Veränderungen: Ich möchte heute besser meine Zeit einteilen, sodass ich genug Zeit für alles habe.
 4. Generelle Ziele:
-  1. [X] Ich möchte im Modul 319 mit der Mission 6 fertig werden.
-  2. [X] Ich möchte am Modul 431 ebenfalls arbeiten
-  3. [X] Ich möchte mich noch für denn Test ebenfalls vorbereiten.
+   1. [X] Ich möchte im Modul 319 mit der Mission 6 fertig werden.
+   2. [X] Ich möchte am Modul 431 ebenfalls arbeiten
+   3. [X] Ich möchte mich noch für denn Test ebenfalls vorbereiten.
 5. Reflexion:
 6. Reflexion nächste Lektion:
