@@ -22,3 +22,12 @@ Checkliste.etc
    3. [X] Ich möchte mich noch für denn Test ebenfalls vorbereiten.
 5. Reflexion: Ich habe heute gut gearbeitet und konzentriert meine Aufgaben gelöst. Dafür habe ich Musik benutzt. Es hat mir geholfen mich zu konzentrieren.
 6. Reflexion nächste Lektion: Nächste Lektion möchte ich versuchen weiterhin so gut wie möglich zu arbeiten. Wenn ich neue Aufträge bekomme, welche ich im Lernatelier lösen soll, mache ich die und sonst arbeite ich weiter an den Modulen.
+1. 11.09.2026
+2. Noten: Wir hatten diese Woche einen Test. Ich finde er ist gut gelaufen, ich hatte die Note 5. Ich bin zufrieden mit diesem Resultat, daher dass ich gedacht habe, dass der Test schlecht gelaufen ist.
+3. Veränderungen: Ich versuche heute wieder gleich zu arbeiten wie letzte Woche, weil ich letzte Woche zufrieden war.
+4. Generelle Ziele:
+   1. [] Ich möchte heute versuchen Mission 7 zu beenden im Modul 319
+   2. [] Ich versuche ebenfalls heute das Thema Arrays zu verstehen und nicht nur es abzuschliessen
+   3. [] Ich möchte heute ebenfalls noch mit einem Projekt starten
+5. Reflexion:
+6. Reflexion nächste Lektion:
