@@ -26,8 +26,8 @@ Checkliste.etc
 2. Noten: Wir hatten diese Woche einen Test. Ich finde er ist gut gelaufen, ich hatte die Note 5. Ich bin zufrieden mit diesem Resultat, daher dass ich gedacht habe, dass der Test schlecht gelaufen ist.
 3. Veränderungen: Ich versuche heute wieder gleich zu arbeiten wie letzte Woche, weil ich letzte Woche zufrieden war.
 4. Generelle Ziele:
-   1. [] Ich möchte heute versuchen Mission 7 zu beenden im Modul 319
-   2. [] Ich versuche ebenfalls heute das Thema Arrays zu verstehen und nicht nur es abzuschliessen
+   1. [X] Ich möchte heute meine Pausen geplannt nutzen
+   2. [X] Ich versuche ebenfalls heute das Thema Arrays zu verstehen und nicht nur es abzuschliessen
    3. [] Ich möchte heute ebenfalls noch mit einem Projekt starten
 5. Reflexion:
 6. Reflexion nächste Lektion:
