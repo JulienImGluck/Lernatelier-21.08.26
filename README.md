@@ -29,5 +29,14 @@ Checkliste.etc
    1. [X] Ich möchte heute meine Pausen geplannt nutzen
    2. [X] Ich versuche ebenfalls heute das Thema Arrays zu verstehen und nicht nur es abzuschliessen
    3. [] Ich möchte heute ebenfalls noch mit einem Projekt starten
-5. Reflexion:
+5. Reflexion: Ich habe heute gut gearbeitet und an meinen Aufgaben gearbeitet. Ich habe wieder mit Musik gearbeitet, weil ich finde das es so gut funktioniert.
+6. Reflexion nächste Lektion: Ich möchte weiterhin gut an meinen Aufgaben arbeiten und versuche immer noch weiterhin mit Musik arbeiten.
+1. 18.09.2026
+2. Noten: Seit dem OBA hatten wir keine Tests mehr, also auch keine Noten mehr
+3. Veränderungen: Keine, weil ich heute gleich wie letztes mal arbeiten möchte.
+4. Generelle Ziele:
+   1. [] Ich möchte heute Mission 8 abschliessen
+   2. [] Ich möchte heute meine Pausen gut einteilen
+   3. [] Ich möchte heute wieder versuchen mit einem Projekt anzufangen
+5. Reflexion
 6. Reflexion nächste Lektion:
