@@ -35,7 +35,7 @@ Checkliste.etc
 2. Noten: Seit dem OBA hatten wir keine Tests mehr, also auch keine Noten mehr
 3. Veränderungen: Keine, weil ich heute gleich wie letztes mal arbeiten möchte.
 4. Generelle Ziele:
-   1. [] Ich möchte heute Mission 8 abschliessen
+   1. [X] Ich möchte heute Mission 8 abschliessen
    2. [] Ich möchte heute meine Pausen gut einteilen
    3. [] Ich möchte heute wieder versuchen mit einem Projekt anzufangen
 5. Reflexion
