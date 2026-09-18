@@ -38,5 +38,5 @@ Checkliste.etc
    1. [X] Ich möchte heute Mission 8 abschliessen
    2. [] Ich möchte heute meine Pausen gut einteilen
    3. [] Ich möchte heute wieder versuchen mit einem Projekt anzufangen
-5. Reflexion
-6. Reflexion nächste Lektion:
+5. Reflexion: Ich habe heute gut gearbeitet, ich habe meine Ziele fast alle gemacht.
+6. Reflexion nächste Lektion: Ich versuche endlich mal auf eine Idee zu kommen, zum ein Projekt zu starten.
