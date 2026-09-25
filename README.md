@@ -36,7 +36,16 @@ Checkliste.etc
 3. Veränderungen: Keine, weil ich heute gleich wie letztes mal arbeiten möchte.
 4. Generelle Ziele:
    1. [X] Ich möchte heute Mission 8 abschliessen
-   2. [] Ich möchte heute meine Pausen gut einteilen
+   2. [X] Ich möchte heute meine Pausen gut einteilen
    3. [] Ich möchte heute wieder versuchen mit einem Projekt anzufangen
 5. Reflexion: Ich habe heute gut gearbeitet, ich habe meine Ziele fast alle gemacht.
 6. Reflexion nächste Lektion: Ich versuche endlich mal auf eine Idee zu kommen, zum ein Projekt zu starten.
+1. 25.09.2026
+2. Noten: Wir haben immernoch keine Neuen Tests gehabt, aber nach den Ferien haben wir die Modul 319 Prüfung
+3. Veränderung: Ich versuche heute immernoch gleich gut zu arbeiten wie letztes mal und nicht die Konzentration zu verlieren
+4. Generelle Ziele:
+   1.[]Pausen versuchen gut einzuteilen
+   2.[]
+   3.[]Ich versuche weiterhin ein Projekt zu finden, wo ich anfangen kann.
+5. Reflexion:
+6. Reflexion nächste Lektion:
