@@ -44,8 +44,8 @@ Checkliste.etc
 2. Noten: Wir haben immernoch keine Neuen Tests gehabt, aber nach den Ferien haben wir die Modul 319 Prüfung
 3. Veränderung: Ich versuche heute immernoch gleich gut zu arbeiten wie letztes mal und nicht die Konzentration zu verlieren
 4. Generelle Ziele:
-   1.[]Pausen versuchen gut einzuteilen
-   2.[]
-   3.[]Ich versuche weiterhin ein Projekt zu finden, wo ich anfangen kann.
-5. Reflexion:
-6. Reflexion nächste Lektion:
+   1. [X]Pausen versuchen gut einzuteilen
+   2. [X]Mission 9 abschliessen
+   3. []Ich versuche weiterhin ein Projekt zu finden, wo ich anfangen kann.
+5. Reflexion: Ich finde ich habe heute okey gearbeitet, ich könnte besser arbeiten finde ich, aber ich bin zufrieden mit heute.
+6. Reflexion nächste Lektion: Ich versuche nächstes mal eines der beiden Module abzuschliessen.
