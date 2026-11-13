@@ -23,4 +23,5 @@ Generelle Ziele:
 []Pausen gut einteilen
 Reflexion: Ich habe heute okey gearbeitet, nächstes mal möchte ich besser arbeiten. Ich war heute sehr lange am github dran um rauszufinden, wie man Titel macht. Es funktioniert immernoch nicht mit dem Hashtag. 
 Reflexion nächste Lektion: Ich möchte nächstes mal mit meinem Projekt starten, dann verbessere ich noch mein Github vom Aufbau her.
-
+13.11.2026
+Noten: Ich habe meine Informatik Note 319 Zurück bekommen, es war eine 3.5
