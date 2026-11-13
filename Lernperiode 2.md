@@ -1,27 +1,81 @@
-### 23.10.2026:
-Noten: Wir hatten noch keine, aber nächste woche am diesnstag geht es los, dann haben wir die abgabe vom Modul 431 und am Mittwoch müssen wir den Test zum Modul 319 schreiben.
-Veränderungen: Ich versuche einbisschen besser zu arbeiten, als das letzte mal vor den Ferien, da hat am ende die Konzentration nachgelassen.
-Generelle Ziele:
-[]Modul abschliessen, sonst zuhause abschliessen
-[X]Versuchen Produktiv zu arbeiten
-[X]Pausen gut einteilen
-Reflexion: Ich habe heute okey gearbeitet, ich bin zufrieden mit meinen Ergebnissen, jedoch war ich sehr lange an einer Aufgabe.
-Reflexion nächste Lektion: Ich versuche besser zu arbeiten und wenn ich fragen habe, mehr zu fragen.
-30.10.2026
-Noten: Wir mussten diese Woche 1 Modul abgeben und ein Test zu einem Modul schreiben. Ich bekomme sie erst nächste Woche glaube ich.
-Veränderungen: Ich versuche Heute ein neues Projekt zu starten, es musss nicht fertig werden, nur einmal starten.
-Generelle Ziele:
-[X]Pausen gut einteilen
-[]Eine Projektidee erstellen
-Reflexion: Ich habe heute gut gearbeitet, habe ein paar ideen bekommen, jedoch konnte ich noch nicht starten.
-Reflexion nächste Lektion: Ich versuche mal das Projekt zu starten, ausser etwas kommt in die Quere.
-06.11.2026
-Noten: Ich habe die Noten immernoch nicht bekommen, ich hoffe jedoch das ich sie bald bekomme, Herr schmidt hat schon die ersten 2 Handelsziele Korrigiert.
-Veränderungen: Ich möchte heute weiter an dem Projekt arbeiten mit nikolaj und maurice, versuchen so gut wie möchglich.
-Generelle Ziele:
-[]Weiter am Projekt arbeiten
-[]Pausen gut einteilen
-Reflexion: Ich habe heute okey gearbeitet, nächstes mal möchte ich besser arbeiten. Ich war heute sehr lange am github dran um rauszufinden, wie man Titel macht. Es funktioniert immernoch nicht mit dem Hashtag. 
-Reflexion nächste Lektion: Ich möchte nächstes mal mit meinem Projekt starten, dann verbessere ich noch mein Github vom Aufbau her.
-13.11.2026
-Noten: Ich habe meine Informatik Note 319 Zurück bekommen, es war eine 3.5
+# Arbeitsjournal
+
+## 23.10.2026
+
+### Noten
+Wir hatten noch keine Noten. Nächste Woche am Dienstag steht die Abgabe des Moduls 431 an und am Mittwoch müssen wir den Test zum Modul 319 schreiben.
+
+### Veränderungen
+Ich versuche, ein bisschen besser zu arbeiten als vor den letzten Ferien. Damals hat gegen Ende die Konzentration nachgelassen.
+
+### Generelle Ziele
+- [ ] Modul abschliessen, ansonsten zuhause fertigstellen
+- [x] Versuchen, produktiv zu arbeiten
+- [x] Pausen gut einteilen
+
+### Reflexion
+Ich habe heute okay gearbeitet und bin mit meinen Ergebnissen zufrieden. Jedoch war ich sehr lange an einer Aufgabe beschäftigt.
+
+### Reflexion nächste Lektion
+Ich versuche, besser zu arbeiten und bei Fragen mehr nachzufragen.
+
+---
+
+## 30.10.2026
+
+### Noten
+Wir mussten diese Woche ein Modul abgeben und einen Test zu einem anderen Modul schreiben. Die Noten bekomme ich wahrscheinlich erst nächste Woche.
+
+### Veränderungen
+Ich versuche heute, ein neues Projekt zu starten. Es muss noch nicht fertig werden, ich möchte einfach einmal damit anfangen.
+
+### Generelle Ziele
+- [x] Pausen gut einteilen
+- [ ] Eine Projektidee erstellen
+
+### Reflexion
+Ich habe heute gut gearbeitet und ein paar Ideen bekommen. Jedoch konnte ich noch nicht mit dem Projekt starten.
+
+### Reflexion nächste Lektion
+Ich versuche, nächstes Mal mit dem Projekt zu starten, ausser es kommt etwas dazwischen.
+
+---
+
+## 06.11.2026
+
+### Noten
+Ich habe die Noten immer noch nicht bekommen. Ich hoffe jedoch, dass ich sie bald erhalte. Herr Schmidt hat bereits die ersten zwei Handelsziele korrigiert.
+
+### Veränderungen
+Ich möchte heute mit Nikolaj und Maurice weiter an unserem Projekt arbeiten und versuchen, so gut wie möglich voranzukommen.
+
+### Generelle Ziele
+- [ ] Weiter am Projekt arbeiten
+- [ ] Pausen gut einteilen
+
+### Reflexion
+Ich habe heute okay gearbeitet. Nächstes Mal möchte ich besser arbeiten. Ich war heute sehr lange auf GitHub, um herauszufinden, wie man Titel erstellt. Es funktioniert immer noch nicht mit dem Hashtag.
+
+### Reflexion nächste Lektion
+Ich möchte nächstes Mal mit meinem Projekt starten. Ausserdem möchte ich mein GitHub vom Aufbau her verbessern.
+
+---
+
+## 13.11.2026
+
+### Noten
+Ich habe meine Informatiknote für das Modul 319 zurückbekommen. Es war eine **3.5**.
+
+### Veränderungen
+Noch keine neuen Veränderungen eingetragen.
+
+### Generelle Ziele
+- [ ] Weiter am Projekt arbeiten
+- [ ] Pausen gut einteilen
+- [ ] Produktiv arbeiten
+
+### Reflexion
+Noch nicht eingetragen.
+
+### Reflexion nächste Lektion
+Noch nicht eingetragen.
