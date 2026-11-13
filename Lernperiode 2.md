@@ -67,15 +67,15 @@ Ich möchte nächstes Mal mit meinem Projekt starten. Ausserdem möchte ich mein
 Ich habe meine Informatiknote für das Modul 319 zurückbekommen. Es war eine **3.5**.
 
 ### Veränderungen
-Noch keine neuen Veränderungen eingetragen.
+Ich möchte heute mein C# Projekt starten und versuchen weiter zu kommen.
 
 ### Generelle Ziele
-- [ ] Weiter am Projekt arbeiten
+- [ ] Das Projekt starten.
 - [ ] Pausen gut einteilen
 - [ ] Produktiv arbeiten
 
 ### Reflexion
-Noch nicht eingetragen.
+
 
 ### Reflexion nächste Lektion
-Noch nicht eingetragen.
+
