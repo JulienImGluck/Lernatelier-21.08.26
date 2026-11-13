@@ -75,7 +75,7 @@ Ich möchte heute mein C# Projekt starten und versuchen weiter zu kommen.
 - [ ] Produktiv arbeiten
 
 ### Reflexion
-
+Ich habe heute gut gearbeitet. Ich habe mein Projekt gemacht. Die Note habe ich au zurück bekommen
 
 ### Reflexion nächste Lektion
-
+Für die nächste Lektion plane ich ein anderes Projekt zu machen, wie z. b. eine neue Programmiersprache zu lernen oder meine C# kenntnisse zu verbessern.
