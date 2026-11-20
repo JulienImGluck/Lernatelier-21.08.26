@@ -79,3 +79,18 @@ Ich habe heute gut gearbeitet. Ich habe mein Projekt gemacht. Die Note habe ich 
 
 ### Reflexion nächste Lektion
 Für die nächste Lektion plane ich ein anderes Projekt zu machen, wie z. b. eine neue Programmiersprache zu lernen oder meine C# kenntnisse zu verbessern.
+## 20.11.2026
+
+### Noten
+Wir haben noch die anderen Noten zurückbekommen, vom Modul 431. Ich hatte dort eine 5. Ich bin zufrieden, aber ich weiss, dass es noch luft nach oben gibt zum verbessern.
+
+### Veränderungen
+Ich möchte heute so gut wie möglich meine C# Kenntnisse verbessern, sodass ich sobald wie möglich eine neue Programmiersprache lernen kann.
+
+### Generelle Ziele
+- [ ] C# Kenntnisse verbessern
+- [ ] Pausen sauber einteilen
+
+### Reflexion
+
+### Reflexion nächste Lektion
