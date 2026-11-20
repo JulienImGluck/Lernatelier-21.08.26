@@ -92,5 +92,7 @@ Ich möchte heute so gut wie möglich meine C# Kenntnisse verbessern, sodass ich
 - [ ] Pausen sauber einteilen
 
 ### Reflexion
+Ich habe heute okey gearbeitet, ich habe C# gelernt und nochmals mein Projekt angeschaut.
 
 ### Reflexion nächste Lektion
+Ich möchte weiterlernen im C#, weil ich mich immmernochnicht so gut auskenne und ich schaue ob ich es dann gut kann und dann lerne ich eine neue Programmiersprache.
